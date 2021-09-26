@@ -5,10 +5,6 @@ body {background-color:#def3f6;
 #header img{height:150px;}
 #nav{background-color:#f6e1de;text-align:center}
 #nav li {display: inline}
-  background: white;
-<style>
-<link href="style.css" rel="stylesheet" type="text/css" />
-</style>
 p {
   color: black;
 }
